@@ -1,0 +1,54 @@
+body{
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+
+}
+.halfwidth img{
+   width: 100%;
+}
+
+.text-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+.top-leftfull{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.topbutton{
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    font-weight: 900;
+    border-radius: 10px;
+    background-image: linear-gradient(red, tomato);
+}
+
+.backg-shado{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 200px;
+    background: white;
+}
+
+#fistBroder{
+    border-left: 1px solid;
+    
+}
